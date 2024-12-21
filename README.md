@@ -1,21 +1,44 @@
-# Heni - Software Engineer & DevOps Enthusiast
+# Heni Zeiri - Software Engineer & DevOps Enthusiast
 
-👋 Hi, I’m [@heni322](https://github.com/heni322)
+![Heni Zeiri Banner](https://via.placeholder.com/1200x400.png?text=Heni+Zeiri+-+Software+Engineer+%26+DevOps+Enthusiast)  
+
+👋 **Hi, I’m [@heni322](https://github.com/heni322)**
+
+---
 
 ## About Me
 
-- 👀 I specialize in **Web Development** and **DevOps**.
-- 🌱 Currently expanding my knowledge in **Software Engineering**.
-- 💞️ Always open to **collaborating** on innovative projects in backend development, DevOps, and software architecture.
-- 📫 Feel free to reach out to me via [email](mailto:your-email@example.com) or on [LinkedIn](https://www.linkedin.com/in/your-profile).
+- 👀 **Specializing in Web Development** and **DevOps**.
+- 🌱 Currently deepening my expertise in **Software Engineering**.
+- 💞️ Passionate about **collaborating** on cutting-edge projects in **backend development**, **DevOps**, and **software architecture**.
+- 📫 **Get in touch**: [Email me](mailto:henizeiri1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/heni-zeiri-00b39819b)
 
-## Skills
+---
 
-- Backend development with **Node.js**, **Laravel**, **.NET**, and more.
-- DevOps practices, including **CI/CD pipelines**, **Docker**, **Kubernetes**, **AWS**, and **Azure**.
-- Strong problem-solving and system optimization skills.
+## 🚀 Key Skills
 
-Let's connect and build something great together! 🚀
+- **Backend Development**: Proficient in **Node.js**, **Laravel**, **.NET**, **Python**, and **PHP**.
+- **DevOps**: Experienced in **CI/CD pipelines**, **Docker**, **Kubernetes**, **AWS**, and **Azure**.
+- **Problem-Solving**: Skilled in **system optimization**, **scalability**, and **automation**.
+
+---
+
+## 🔧 Tools & Technologies
+
+- **Languages**: JavaScript, PHP, C#, Python
+- **Frameworks**: Node.js, Laravel, .NET
+- **DevOps**: Docker, Kubernetes, Jenkins, GitLab CI, Terraform
+- **Cloud**: AWS, Azure, Google Cloud
+- **Version Control**: Git, GitHub, GitLab
+
+---
+
+## 💡 Let's Connect
+
+- 🌍 **Always open to new opportunities** and collaborations.
+- 🚀 Let’s create impactful software and scalable systems together.
+
+---
 
 <!---
 heni322/heni322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
