@@ -1,7 +1,5 @@
 # Heni Zeiri - Software Engineer & DevOps Enthusiast
 
-![Heni Zeiri Banner](https://via.placeholder.com/1200x400.png?text=Heni+Zeiri+-+Software+Engineer+%26+DevOps+Enthusiast)  
-
 👋 **Hi, I’m [@heni322](https://github.com/heni322)**
 
 ---
